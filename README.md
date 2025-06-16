@@ -18,5 +18,5 @@
 
 ## 🧠 블로그 및 연락처
 📖 Tistory [jjsair0412.tistory.com](https://jjsair0412.tistory.com)
-📫 Contact [jjsair0412@gmail.com](mailto:jjsair0412@gmail.com)
+📫 Contact [jjsair0412@naver.com](mailto:jjsair0412@naver.com)
 
