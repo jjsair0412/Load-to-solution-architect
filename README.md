@@ -7,10 +7,10 @@
 - 실전 아키텍처 설계 및 문서화 능력 향상
 
 ## 📁 디렉토리 구성
-- `00_Docs`: 기술 설계 문서, 발표자료, 회고 정리
+- `00_Docs`: 기술 설계 문서 정리
 - `01_Infra_Practice`: K8s, Harvester, Docker 실습
-- `02_Cloud_Automation`: Terraform, Ansible로 구성 자동화
-- `03_CICD`: Jenkins, GitHub Actions 등을 활용한 배포 자동화
+- `02_Cloud_Automation`: Terraform, Ansible로 구성 자동화 코드
+- `03_CICD`: Jenkins, GitHub Actions 등을 활용한 배포 자동화 코드
 - `04_Monitoring_And_Observability`: Cloud Native 및 다양한 환경의 모니터링과 관측가능성
 - `99_Presentations`: 발표자료 및 설명 README
 
